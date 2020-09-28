@@ -1,4 +1,4 @@
-package Interview.Facebook.BillionUsers;
+package Interview.FacebookPortal.BillionUsers;
 
 public class Solution {
     public int getBillionUsersDay(float[] growthRates) {

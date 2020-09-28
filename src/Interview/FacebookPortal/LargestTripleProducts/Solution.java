@@ -1,4 +1,4 @@
-package Interview.Facebook.LargestTripleProducts;
+package Interview.FacebookPortal.LargestTripleProducts;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

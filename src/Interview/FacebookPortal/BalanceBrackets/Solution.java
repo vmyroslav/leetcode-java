@@ -1,4 +1,4 @@
-package Interview.Facebook.BalanceBrackets;
+package Interview.FacebookPortal.BalanceBrackets;
 
 import java.util.Stack;
 

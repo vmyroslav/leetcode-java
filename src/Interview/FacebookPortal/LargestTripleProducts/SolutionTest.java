@@ -1,4 +1,4 @@
-package Interview.Facebook.LargestTripleProducts;
+package Interview.FacebookPortal.LargestTripleProducts;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

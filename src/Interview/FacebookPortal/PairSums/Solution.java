@@ -1,4 +1,4 @@
-package Interview.Facebook.PairSums;
+package Interview.FacebookPortal.PairSums;
 
 import java.util.HashMap;
 import java.util.Map;

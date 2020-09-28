@@ -1,4 +1,4 @@
-package Interview.Facebook.EncryptedWords;
+package Interview.FacebookPortal.EncryptedWords;
 
 public class Solution {
     public String findEncryptedWord(String s) {

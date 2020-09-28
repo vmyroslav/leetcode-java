@@ -1,4 +1,4 @@
-package Interview.Facebook.RotationalCipher;
+package Interview.FacebookPortal.RotationalCipher;
 
 public class Solution {
     public String rotationalCipher(String input, int rotationFactor) {

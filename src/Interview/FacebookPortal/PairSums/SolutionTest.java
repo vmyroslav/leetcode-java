@@ -1,4 +1,4 @@
-package Interview.Facebook.PairSums;
+package Interview.FacebookPortal.PairSums;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package Interview.Facebook.SlowSums;
+package Interview.FacebookPortal.SlowSums;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

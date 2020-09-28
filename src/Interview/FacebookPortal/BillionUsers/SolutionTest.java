@@ -1,4 +1,4 @@
-package Interview.Facebook.BillionUsers;
+package Interview.FacebookPortal.BillionUsers;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

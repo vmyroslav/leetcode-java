@@ -1,4 +1,4 @@
-package Interview.Facebook.SlowSums;
+package Interview.FacebookPortal.SlowSums;
 
 import java.util.Arrays;
 

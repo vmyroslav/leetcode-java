@@ -1,4 +1,4 @@
-package Interview.Facebook.EncryptedWords;
+package Interview.FacebookPortal.EncryptedWords;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

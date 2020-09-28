@@ -1,4 +1,4 @@
-package Interview.Facebook.QueueRemovals;
+package Interview.FacebookPortal.QueueRemovals;
 
 public class Solution {
 

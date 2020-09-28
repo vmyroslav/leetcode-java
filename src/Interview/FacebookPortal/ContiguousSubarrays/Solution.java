@@ -1,4 +1,4 @@
-package Interview.Facebook.ContiguousSubarrays;
+package Interview.FacebookPortal.ContiguousSubarrays;
 
 public class Solution {
     public int[] countSubarrays(int[] arr) {

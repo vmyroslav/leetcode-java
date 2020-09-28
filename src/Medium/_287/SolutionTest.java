@@ -1,4 +1,4 @@
-package Interview.Facebook.RotationalCipher;
+package Medium._287;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -15,11 +15,8 @@ class SolutionTest {
     }
 
     @Test
-    void rotationalCipher() {
-        String input = "Zebra-493?";
-        int inputFactor = 3;
-        String output = "Cheud-726?";
-
-        assertEquals(output, solution.rotationalCipher(input, inputFactor));
+    void findDuplicate() {
+        assertEquals(2, solution.findDuplicate(new int[]{1,3,4,2,2}));
+        assertEquals(9, solution.findDuplicate(new int[]{2,5,9,6,9,3,8,9,7,1}));
     }
 }
