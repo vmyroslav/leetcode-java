@@ -15,7 +15,7 @@ public class Subsets {
             int size = subsets.size();
 
             for (int i = 0; i < size; i++) {
-                List<Integer> subList =  new ArrayList<>(subsets.get(i));
+                List<Integer> subList = new ArrayList<>(subsets.get(i));
                 subList.add(n);
                 subsets.add(subList);
             }
