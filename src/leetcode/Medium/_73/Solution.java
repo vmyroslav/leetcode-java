@@ -37,14 +37,14 @@ public class Solution {
             }
         }
 
-        if (rowZero) {
+        if (colZero) {
             for (int i = 0; i < m; i++) {
                 matrix[i][0] = 0;
             }
         }
 
-        if (colZero) {
-            for (int j = 0; j < m; j++) {
+        if (rowZero) {
+            for (int j = 0; j < n; j++) {
                 matrix[0][j] = 0;
             }
         }
