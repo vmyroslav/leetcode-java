@@ -4,10 +4,12 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+// https://leetcode.com/problems/word-break/
+
 public class Solution {
+    // Time: O(S^2 * k); Space: O(S)
     public boolean wordBreak(String s, List<String> wordDict) {
-        Set<String> wordSet = new HashSet<>();
-        wordSet.addAll(wordDict);
+        Set<String> wordSet = new HashSet<>(wordDict);
 
         boolean[] dp = new boolean[s.length() + 1];
         dp[0] = true;
