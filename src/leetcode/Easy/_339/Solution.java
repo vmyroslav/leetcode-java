@@ -2,7 +2,10 @@ package leetcode.Easy._339;
 
 import java.util.List;
 
+// https://leetcode.com/problems/nested-list-weight-sum/
+
 public class Solution {
+    // Time: O(n); Space: O(H)
     public int depthSum(List<NestedInteger> nestedList) {
         return dfs(nestedList, 1);
     }
