@@ -1,6 +1,9 @@
 package leetcode.Easy._67;
 
+// https://leetcode.com/problems/add-binary/
+
 public class Solution {
+    // Time: O(max(a,b)); Space: O(max(a,b))
     public String addBinary(String a, String b) {
         int m = a.length() - 1;
         int n = b.length() - 1;
