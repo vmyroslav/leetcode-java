@@ -2,6 +2,7 @@ package leetcode.Medium._523;
 
 import java.util.HashMap;
 
+// https://leetcode.com/problems/continuous-subarray-sum/
 public class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
         int sum = 0;

@@ -1,7 +1,8 @@
 package leetcode.Medium._211;
 
+// https://leetcode.com/problems/design-add-and-search-words-data-structure/
 public class WordDictionary {
-    class Node {
+    static class Node {
         public Node[] children = new Node[26];
         public boolean isWord;
     }
