@@ -1,6 +1,5 @@
 package educative.grokking.slidingWindow
 
-import kotlin.math.max
 import kotlin.math.min
 
 /**
@@ -8,9 +7,9 @@ import kotlin.math.min
    Output: 2
    Explanation: The smallest subarray with a sum greater than or equal to ‘7’ is [5, 2].
  */
-class SmallestSubarrayWithAGreaterSum {
+class KSmallestSubarrayWithAGreaterSum {
 
-    // O(N)
+    // O(N+N)
     fun findMinSubArray(s: Int, arr: Array<Int>): Int {
         var start = 0
         var sum = 0
