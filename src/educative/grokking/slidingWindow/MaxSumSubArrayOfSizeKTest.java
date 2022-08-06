@@ -6,6 +6,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MaxSumSubArrayOfSizeKTest {
 
+
+
     @Test
     void findMaxSumSubArray() {
         assertEquals(7, MaxSumSubArrayOfSizeK.findMaxSumSubArray(2, new int[]{2, 3, 4, 1, 5}));
